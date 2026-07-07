@@ -1,14 +1,16 @@
 | Claim | Verdict | Evidence |
 |---|---|---|
-| Torsion spring $220-$450 | SUPPORTED | matches pricing table |
-| Call-out $120-$200 | SUPPORTED | matches pricing table |
-| Lifting cable $180-$320 | SUPPORTED | matches pricing table |
-| Track roller $160-$300 | SUPPORTED | matches pricing table |
-| Opener/motor $600-$1,100 | SUPPORTED | matches pricing table |
-| New sectional door $2,500-$5,000 | SUPPORTED | matches pricing table |
-| Standard repairs 1-2hrs on-site | SUPPORTED | exact phrase in FAQ |
-| Licensed electrician, QLD Electrical Safety Act 2002 | SUPPORTED | stated twice in money text |
-| Suburbs list (9 named) | SUPPORTED | all 9 appear in coverage lists |
-| HIA general guidance claim | SUPPORTED | reasonable generic claim, no fabricated specifics |
+| Torsion spring replacement $220–$450 | SUPPORTED | Matches pricing table exact |
+| Standard service call-out $120–$200 | SUPPORTED | Matches pricing table exact |
+| Lifting cable replacement $180–$320 | SUPPORTED | Matches pricing table exact |
+| Track roller replacement $160–$300 | SUPPORTED | Matches pricing table exact |
+| Opener/motor replacement $600–$1,100 | SUPPORTED | Matches pricing table exact |
+| New sectional door $2,500–$5,000 | SUPPORTED | Matches pricing table exact |
+| Standard repairs done in 1–2 hrs once on site | SUPPORTED | FAQ text: "completed in one to two hours once the technician is on site" |
+| Electrical work on opener = licensed electrician, QLD Electrical Safety Act 2002 | SUPPORTED | Money text states exact same, twice |
+| Suburbs: Tarragindi, Camp Hill, Holland Park, Coorparoo, Carindale, Mount Gravatt, Wishart, Sunnybank, Greenslopes | SUPPORTED | All listed in money text suburb list |
+| HIA publishes guidance on engaging licensed tradespeople | SUPPORTED | Reasonable, non-fabricated statement for HIA's known role, sourced to external URL not money page |
+
+No funnel/mechanism language in claims themselves. No fabricated add-ons.
 
 FACT-CHECK: PASS
